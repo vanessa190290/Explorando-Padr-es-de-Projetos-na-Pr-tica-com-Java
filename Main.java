@@ -1,4 +1,4 @@
-public class Produto {
+public class VA ELETRONICOS {
 	// Atributos da classe,getters e setters 
 @Builder.Constructor
 Produto(long id, string titulo, string descricao, string marca 
